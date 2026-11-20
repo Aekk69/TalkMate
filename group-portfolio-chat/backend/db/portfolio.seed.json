@@ -1,0 +1,186 @@
+{
+  "group": {
+    "name": "TalkMate",
+    "tagline": "สามคน สามสายงาน หนึ่งเว็บที่ตอบแทนเราได้ตลอดเวลา",
+    "concept": "เราสร้างเว็บ Portfolio ที่ให้ผู้เยี่ยมชมคุยกับ AI เพื่อรู้จักทีมและผลงานได้ทุกเวลา แบ่งหน้าที่ชัดเจน และทุกคนอธิบายโค้ดได้",
+    "highlights": [
+      "ทำงานแบ่งหน้าที่ชัด",
+      "ทุกคนอธิบายโค้ดได้",
+      "Deploy อัตโนมัติด้วย CI/CD"
+    ],
+    "group_projects": [
+      {
+        "name": "Chat AI พร้อม Portfolio",
+        "description": "เว็บแอปให้ผู้เยี่ยมชมคุยกับ AI เพื่อสอบถามผลงานของทีม",
+        "tech": [
+          "React",
+          "Express",
+          "PostgreSQL",
+          "Claude API"
+        ]
+      }
+    ],
+    "contact": {
+      "email": "aekkarat.jitb@bumail.net",
+      "github": "https://github.com/Aekk69",
+      "line": "@yourteam"
+    },
+    "i18n": {
+      "en": {
+        "tagline": "Three people, three roles, one site that speaks for us",
+        "concept": "We built a portfolio site where visitors chat with an AI to get to know our team and work at any time, with clear roles and everyone able to explain the code.",
+        "highlights": [
+          "Clear division of roles",
+          "Everyone can explain the code",
+          "Automatic deploys with CI/CD"
+        ]
+      }
+    }
+  },
+  "members": [
+    {
+      "name": "เอกรัตน์ จิตรบรรจง",
+      "role": "นักพัฒนา Frontend",
+      "bio": "ดูแลหน้าตาเว็บและประสบการณ์ใช้งาน",
+      "skills": [
+        "React",
+        "CSS",
+        "UX"
+      ],
+      "projects": [
+        {
+          "name": "โปรเจกต์ของ A",
+          "description": "รายละเอียด"
+        }
+      ],
+      "photo": "/photos/member-a.jpg",
+      "profile": {
+        "education": "คณะวิศวกรรมศาสตร์ สาขาปัญญาประดิษฐ์และวิทยาการข้อมูล มหาวิทยาลัยกรุงเทพ",
+        "interests": [],
+        "quote": "",
+        "timeline": [
+          {
+            "year": "2569",
+            "text": "เริ่มทำโปรเจกต์ TalkMate ในวิชา Web Technology"
+          }
+        ],
+        "en": {
+          "name": "Aekkarat Jitbanjong",
+          "role": "Frontend Developer",
+          "bio": "Builds the interface and user experience",
+          "education": "Faculty of Engineering, Artificial Intelligence and Data Science, Bangkok University",
+          "interests": [],
+          "quote": "",
+          "timeline": [
+            {
+              "year": "2569",
+              "text": "Started the TalkMate project in Web Technology"
+            }
+          ],
+          "university": "Bangkok University",
+          "faculty": "Faculty of Engineering",
+          "major": "Artificial Intelligence and Data Science"
+        },
+        "university": "มหาวิทยาลัยกรุงเทพ",
+        "faculty": "คณะวิศวกรรมศาสตร์",
+        "major": "สาขาปัญญาประดิษฐ์และวิทยาการข้อมูล"
+      }
+    },
+    {
+      "name": "รัศมี เกตุกรัต",
+      "role": "นักพัฒนา Backend",
+      "bio": "ดูแล API และฐานข้อมูล",
+      "skills": [
+        "Node.js",
+        "Express",
+        "PostgreSQL"
+      ],
+      "projects": [
+        {
+          "name": "โปรเจกต์ของ B",
+          "description": "รายละเอียด"
+        }
+      ],
+      "photo": "/photos/member-b.jpg",
+      "profile": {
+        "education": "คณะวิศวกรรมศาสตร์ สาขาปัญญาประดิษฐ์และวิทยาการข้อมูล มหาวิทยาลัยกรุงเทพ",
+        "interests": [],
+        "quote": "",
+        "timeline": [
+          {
+            "year": "2569",
+            "text": "เริ่มทำโปรเจกต์ TalkMate ในวิชา Web Technology"
+          }
+        ],
+        "en": {
+          "name": "Ratsamee Ketkarat",
+          "role": "Backend Developer",
+          "bio": "Builds the API and database",
+          "education": "Faculty of Engineering, Artificial Intelligence and Data Science, Bangkok University",
+          "interests": [],
+          "quote": "",
+          "timeline": [
+            {
+              "year": "2569",
+              "text": "Started the TalkMate project in Web Technology"
+            }
+          ],
+          "university": "Bangkok University",
+          "faculty": "Faculty of Engineering",
+          "major": "Artificial Intelligence and Data Science"
+        },
+        "university": "มหาวิทยาลัยกรุงเทพ",
+        "faculty": "คณะวิศวกรรมศาสตร์",
+        "major": "สาขาปัญญาประดิษฐ์และวิทยาการข้อมูล"
+      }
+    },
+    {
+      "name": "กฤตพล ทองศักดิ์",
+      "role": "DevOps / AI Integration",
+      "bio": "ดูแล pipeline และการเชื่อมต่อ AI",
+      "skills": [
+        "GitHub Actions",
+        "Prompt Design",
+        "Docker"
+      ],
+      "projects": [
+        {
+          "name": "โปรเจกต์ของ C",
+          "description": "รายละเอียด"
+        }
+      ],
+      "photo": "/photos/member-c.jpg",
+      "profile": {
+        "education": "คณะวิศวกรรมศาสตร์ สาขาปัญญาประดิษฐ์และวิทยาการข้อมูล มหาวิทยาลัยกรุงเทพ",
+        "interests": [],
+        "quote": "",
+        "timeline": [
+          {
+            "year": "2569",
+            "text": "เริ่มทำโปรเจกต์ TalkMate ในวิชา Web Technology"
+          }
+        ],
+        "en": {
+          "name": "Krittapon Thongsak",
+          "role": "DevOps / AI Integration",
+          "bio": "Owns the pipeline and AI integration",
+          "education": "Faculty of Engineering, Artificial Intelligence and Data Science, Bangkok University",
+          "interests": [],
+          "quote": "",
+          "timeline": [
+            {
+              "year": "2569",
+              "text": "Started the TalkMate project in Web Technology"
+            }
+          ],
+          "university": "Bangkok University",
+          "faculty": "Faculty of Engineering",
+          "major": "Artificial Intelligence and Data Science"
+        },
+        "university": "มหาวิทยาลัยกรุงเทพ",
+        "faculty": "คณะวิศวกรรมศาสตร์",
+        "major": "สาขาปัญญาประดิษฐ์และวิทยาการข้อมูล"
+      }
+    }
+  ]
+}
